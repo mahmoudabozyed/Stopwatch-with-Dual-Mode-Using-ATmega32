@@ -80,9 +80,10 @@ To design and implement a **dual-mode stopwatch** with **reset, pause, resume, a
 
 ---
 
-## 🔗 Demo
+### 🔗 Demo
+Check the project details on LinkedIn:  
+[https://www.linkedin.com/posts/mahmoud-abouzeid-sw-ml_embeddedsystems-atmega32-microcontrollers-activity-7367664010571214849-sb6G](https://www.linkedin.com/posts/mahmoud-abouzeid-sw-ml_embeddedsystems-atmega32-microcontrollers-activity-7367664010571214849-sb6G)
 
-[![Watch the Demo](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/-7c2NCQg5r4)
 
 ---
 
